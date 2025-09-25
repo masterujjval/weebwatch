@@ -1,3 +1,3 @@
 # weebwatch
-This is experimental branch for experimentation
+This is experimental branch for experimentation only
 
